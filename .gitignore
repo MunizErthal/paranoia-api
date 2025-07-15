@@ -1,0 +1,79 @@
+# ------------------------
+# Build and Dependency Files
+# ------------------------
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven Wrapper
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Spring Boot Environment / Secrets
+.env
+application.yml
+application-*.yml
+application.properties
+application-*.properties
+
+# ------------------------
+# IDEs and Editor Settings
+# ------------------------
+
+## IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+## Eclipse / Spring Tool Suite (STS)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+## NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+## Visual Studio Code
+.vscode/
+
+# ------------------------
+# OS-specific and Misc
+# ------------------------
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# ------------------------
+# Exceptions for Embedded Target/Build Folders in Source (if needed)
+# ------------------------
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# ------------------------
+# Documentation
+# ------------------------
+HELP.md

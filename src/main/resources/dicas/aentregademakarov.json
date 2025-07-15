@@ -1,0 +1,297 @@
+[
+  {
+    "indexPai": [1],
+    "index": 1,
+    "dica": "Escute a gravação novamente com calma."
+  },
+  {
+    "indexPai": [1],
+    "index": 2,
+    "dica": "Um cadeado de 5 digitos pode receber uma senha com apenas quatro dígitos."
+  },
+  {
+    "indexPai": [1],
+    "index": 3,
+    "dica": "A Xadrez tem sempre um jeito bem específico de começar a fazer suas coisas."
+  },
+  {
+    "indexPai": [1],
+    "index": 4,
+    "dica": "Algo sempre vem primeiro quando se trata da Xadrez."
+  },
+  {
+    "indexPai": [2, 6],
+    "index": 5,
+    "dica": "Você reconhece os locais das fotos? Tente descobrir onde cada uma dessas fotos fica."
+  },
+  {
+    "indexPai": [2, 6],
+    "index": 6,
+    "dica": "Existem 5 álbuns e 5 cordões."
+  },
+  {
+    "indexPai": [2, 6],
+    "index": 7,
+    "dica": "Cada album tem um número de fotos, que combina com um conjunto de linhas."
+  },
+  {
+    "indexPai": [2, 6],
+    "index": 8,
+    "dica": "Use o mapa e os cordões para marcar os locais das viagens."
+  },
+  {
+    "indexPai": [3, 7],
+    "index": 9,
+    "dica": "A xadrez gosta de esconder as coisas."
+  },
+  {
+    "indexPai": [3, 7],
+    "index": 10,
+    "dica": "Existe algo abaixo da superficie."
+  },
+  {
+    "indexPai": [3, 7],
+    "index": 11,
+    "dica": "Fundos falso."
+  },
+  {
+    "indexPai": [3, 7],
+    "index": 12,
+    "dica": "O formato formado pelas linhas encaixa com um formato escondido em algum lugar."
+  },
+  {
+    "indexPai": [4, 9],
+    "index": 13,
+    "dica": "O Cachimbo possuí sempre uma pequena câmara de passagem de ar, onde ele se desloca até a boca."
+  },
+  {
+    "indexPai": [4, 9],
+    "index": 14,
+    "dica": "Essa passagem poderia servir para esconder algo."
+  },
+  {
+    "indexPai": [5],
+    "index": 15,
+    "dica": "Parece que uma das caixas está de aniversário."
+  },
+  {
+    "indexPai": [5],
+    "index": 16,
+    "dica": "O que você costuma fazer em aniversários?"
+  },
+  {
+    "indexPai": [5],
+    "index": 17,
+    "dica": "TOC-TOC? (Não desista de primeira, é preciso persistir)."
+  },
+  {
+    "indexPai": [5],
+    "index": 18,
+    "dica": "Pa-ra-béns-pra-vo-cê"
+  },
+  {
+    "indexPai": [5],
+    "index": 19,
+    "dica": "O ritmo é o mais importante"
+  },
+  {
+    "indexPai": [8],
+    "index": 20,
+    "dica": "Há um texto escondido em um item da caixa."
+  },
+  {
+    "indexPai": [8],
+    "index": 21,
+    "dica": "O texto parece estar cifrado."
+  },
+  {
+    "indexPai": [8],
+    "index": 22,
+    "dica": "O circulo dentro da caixa encaixa perfeitamente na caixa onde estavam os albuns."
+  },
+  {
+    "indexPai": [8],
+    "index": 23,
+    "dica": "Os cirulos possuem duas marcações da xadrez iguais"
+  },
+  {
+    "indexPai": [8],
+    "index": 24,
+    "dica": "É uma cifra de césar, cada letra do circulo de fora, deve ser convertida para a que encaixa no circulo de dentro."
+  },
+  {
+    "indexPai": [10],
+    "index": 25,
+    "dica": "É dificíl de ler a etiqueta destes frascos, talvez algo vermelho possa ajudar."
+  },
+  {
+    "indexPai": [10],
+    "index": 26,
+    "dica": "A lente dentro da caixa é a chave para ler as etiquetas dos frascos."
+  },
+  {
+    "indexPai": [10],
+    "index": 27,
+    "dica": "Agora que sei o nome de cada frasco, posso organizar de acordo com a receita."
+  },
+  {
+    "indexPai": [10],
+    "index": 28,
+    "dica": "A receita criou uma ordem de cores para os frascos."
+  },
+  {
+    "indexPai": [11],
+    "index": 29,
+    "dica": "As engrenagens encaixam nos pinos na tampa, precisamos saber como ordenar elas, talvez essas flechas sejam a resposta."
+  },
+  {
+    "indexPai": [11],
+    "index": 30,
+    "dica": "A ordem pode ter a ver com o que sempre vem primeiro quando o assunto é a Xadrez."
+  },
+  {
+    "indexPai": [11],
+    "index": 31,
+    "dica": "Agora que as engrenagens estão colocadas formando a palavra medo, talvez elas precisem ser giradas, mas em quais direções?"
+  },
+  {
+    "indexPai": [11],
+    "index": 32,
+    "dica": "Existem cores em uma das engrenagens."
+  },
+  {
+    "indexPai": [11],
+    "index": 33,
+    "dica": "As direções encontradas junto com as engrenagens podem ajudar."
+  },
+  {
+    "indexPai": [11],
+    "index": 34,
+    "dica": "Existe mais uma coisa com cores, além da engrenagem."
+  },
+  {
+    "indexPai": [12],
+    "index": 35,
+    "dica": "Tudo nesta caixa parece estar invertido, talvez inverter textos ajude."
+  },
+  {
+    "indexPai": [12],
+    "index": 36,
+    "dica": "Alguns textos estão de trás para frente."
+  },
+  {
+    "indexPai": [12],
+    "index": 37,
+    "dica": "O segredo deve estar escondido no instagram."
+  },
+  {
+    "indexPai": [12],
+    "index": 38,
+    "dica": "MASTERDUSV pode ser o que precisam encontrar."
+  },
+  {
+    "indexPai": [13],
+    "index": 39,
+    "dica": "Não se esqueçam, alguns desafios precisam de aplicativos auxiliares."
+  },
+  {
+    "indexPai": [13],
+    "index": 40,
+    "dica": "Se esta caixa tem tudo ao contrário, talvez o contrtário de positivo seja importante."
+  },
+  {
+    "indexPai": [13],
+    "index": 41,
+    "dica": "Fotos antigas ficavam negativas antes de serem reveladas."
+  },
+  {
+    "indexPai": [13],
+    "index": 42,
+    "dica": "Existem aplicativos que convertem imagens negativas em positivas."
+  },
+  {
+    "indexPai": [13],
+    "index": 43,
+    "dica": "Existe algo escrito na Imagem convertida."
+  },
+  {
+    "indexPai": [13],
+    "index": 44,
+    "dica": "Não esqueça de tentar de trás para frente"
+  },
+  {
+    "indexPai": [14],
+    "index": 45,
+    "dica": "Acho que isso não é nenhum idioma conhecido."
+  },
+  {
+    "indexPai": [14],
+    "index": 46,
+    "dica": "Parece que está de trás para frente."
+  },
+  {
+    "indexPai": [14],
+    "index": 47,
+    "dica": "Existem aplicativos que revertem o áudio de trás para frente."
+  },
+  {
+    "indexPai": [14],
+    "index": 48,
+    "dica": "Agora o importante é seguir as instruções dos áudios com muita atenção."
+  },
+  {
+    "indexPai": [17],
+    "index": 49,
+    "dica": "Existem 4 cores no labirinto. E quatro quadradinhos referente a elas dentro das outras caixas."
+  },
+  {
+    "indexPai": [17],
+    "index": 50,
+    "dica": "Faltam apenas cadeado de números. Precisamos encontrá-los."
+  },
+  {
+    "indexPai": [17],
+    "index": 51,
+    "dica": "A tabela completa o enigma do labirinto."
+  },
+  {
+    "indexPai": [17],
+    "index": 52,
+    "dica": "Precisam ser encontrados 3 números para cada cor."
+  },
+  {
+    "indexPai": [17],
+    "index": 53,
+    "dica": "Quando um dos quadrados PARA em um número, anota-se aquele número para aquela cor (NÂO ESCREVER NO MDF)."
+  },
+  {
+    "indexPai": [18],
+    "index": 54,
+    "dica": "Os humanos possuem 5 sentidos."
+  },
+  {
+    "indexPai": [18],
+    "index": 55,
+    "dica": "Vocês não veem nada, não escutam nada, não tem nada para tocar, ou provar. Resta um sentido."
+  },
+  {
+    "indexPai": [18],
+    "index": 56,
+    "dica": "Já sei o que é esse cheiro. Preciso convertê-lo em números."
+  },
+  {
+    "indexPai": [18],
+    "index": 57,
+    "dica": "Existe algo na tampa da caixa que pode ajudar."
+  },
+  {
+    "indexPai": [19],
+    "index": 58,
+    "dica": "As lanternas vão revelar algo no escuro."
+  },
+  {
+    "indexPai": [19],
+    "index": 59,
+    "dica": "Quando colocar a resposta na bomba, ela entrega o código final para ser colocado no celular."
+  }
+]
