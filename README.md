@@ -33,4 +33,10 @@ Built for performance, scalability, and maintainability.
 
 ---
 
+## 🧩 Related Projects
+
+[🔗](https://github.com/MunizErthal/paranoia-mobile)  Paranoia Mobile App
+
+---
+
 <a href="https://fernandome.com" target="_blank">🌐 Portfólio</a>
