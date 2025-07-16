@@ -5,6 +5,8 @@ It handles business logic, manage our games, communicates with a **MySQL** datab
 
 Built for performance, scalability, and maintainability.
 
+> 🗓️ **Project developed in 2024**
+
 ---
 
 ## 🔗 Key Features
